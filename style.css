@@ -1,68 +1,67 @@
-body{
-    font-family: 'Poppins', sans-serif;
-    margin: 0px;
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0px;
 }
-span{
-    color: orange;
+span {
+  color: orange;
 }
-h1{
-    font-size: 50px;
+h1 {
+  font-size: 50px;
 }
-.flex{
-    display: flex;
+.flex {
+  display: flex;
 }
-.half-width{
-    width: 50%;
-    margin: 10px 100px;
-    padding-top: 20px;
+.half-width {
+  width: 50%;
+  margin: 10px 100px;
+  padding-top: 20px;
 }
-p{
-    color: gray;
+p {
+  color: gray;
 }
-img{
-    width: 100%;
+img {
+  width: 100%;
 }
-a{
-    text-decoration: none;
-    background: linear-gradient(90deg, #fd9c2d 0%, #22C1C3 100%);
-    padding: 10px 40px;
-    border-radius: 5px;
-    color: white;
-    font-weight: 700;
+a {
+  text-decoration: none;
+  background: linear-gradient(90deg, #fd9c2d 0%, #22c1c3 100%);
+  padding: 10px 40px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 700;
 }
-.h-exp{
-    font-size: 60px
+.h-exp {
+  font-size: 60px;
 }
-.work-exp{
-    margin: 50px;
-    box-shadow: 15px 15px 50px #22C1C3;
-    padding: 0% 2%;
-    width: 600px;
-    height: 500px;
-    border-radius: 10px;
+.work-exp {
+  margin: 50px;
+  box-shadow: 15px 15px 50px #22c1c3;
+  padding: 0% 2%;
+  width: 600px;
+  height: 500px;
+  border-radius: 10px;
 }
-.bor-blue{
-    border-left: 6px solid blueviolet;
-    border: linear-gradient(to bottom white 0%, blueviolet 100%);
-    
+.bor-blue {
+    border-left: 4px solid;
+    border-image: linear-gradient(to top, white, blueviolet)1;
 }
-.bor-red{
-    border-left: 6px solid orangered;
+.bor-red {
+  border-left: 6px solid orangered;
 }
-#bimg-1{
-    background-image: url(images/top-banner.png);
-    background-repeat: no-repeat;
+#bimg-1 {
+  background-image: url(images/top-banner.png);
+  background-repeat: no-repeat;
 }
-#bimg-2{
-    background-image: url(images/dream-bg.png);
-    background-repeat: no-repeat;
-    background-position: right bottom -20px;
+#bimg-2 {
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right bottom -20px;
 }
-#bimg-3{
-    background-image: url(images/exp-bg.png);
-    background-repeat: no-repeat;
-    background-position: left;
+#bimg-3 {
+  background-image: url(images/exp-bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
 }
-footer p{
-    text-align: center;
+footer p {
+  text-align: center;
 }
